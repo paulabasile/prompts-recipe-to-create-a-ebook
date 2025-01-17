@@ -54,14 +54,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-    <p>
 Paula Basile<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/paulabasile">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/paulabasile/">LinkedIn</a>
-&nbsp;|&nbsp;
-</p>
+
+
 
 
 
