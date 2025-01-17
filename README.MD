@@ -54,7 +54,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-Paula Basile<br>
+Paula Basile
+
 [GitHub](https://github.com/paulabasile)   
 [LinkedIn](https://www.linkedin.com/in/paulabasile/)   
  
