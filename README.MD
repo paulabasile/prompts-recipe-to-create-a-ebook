@@ -57,7 +57,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 Paula Basile<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/paulabasile">
-    GitHub</a>&nbsp;|&nbsp;
+    GitHub</a>
     <a href="https://www.linkedin.com/in/paulabasile/">LinkedIn</a>
 
 
